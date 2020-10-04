@@ -7,4 +7,14 @@ The main language i hope to be working in is python. Despite this, i will have t
 * front end gui
 * data storage and object orientation
 
-Further more, many of these projects may overlap multiple sections.
+Further more, many of these projects may overlap multiple sections and should improve my programming knowloedge tenfold.
+the skills i hope to learn after completing this project are:
+* how to use apis
+* front and back end development
+* cross language coding
+* full stack developing
+* html,css,js
+* pickling objects, data and other files
+
+this repository will get very big, yet i will catagorise everything i am doing by hierarchy and a blog/log on what i am doint
+for the list of projects, please look at projects.md or the projects tab
