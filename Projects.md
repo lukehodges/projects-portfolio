@@ -23,3 +23,4 @@
         We can gain information about the front posts on a subreddit using the PRAW API. 
         This api takes the posts from a subreddit and stores it as an object in which information such as 
         titles, description, comments ect can be taken as an variable.
+6. url shortener
